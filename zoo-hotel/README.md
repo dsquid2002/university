@@ -1,7 +1,7 @@
 # Summary of the Veterinary Hotel Management Project
 
 ## Objective
-Develop an application for managing a veterinary hotel, overseeing entities such as caretakers, veterinarians, and habitats with trees.
+Develop an application for managing a veterinary hotel, overseeing entities such as caretakers, veterinarians, and habitats with trees. The framework po-ulib1.jar intended to interact with the user was designed by the Instituto Superior Técnico Computer Science department.
 
 ## Document Structure
 
